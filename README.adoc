@@ -1,0 +1,18 @@
+= Pivotal Big Data Roadshow  - Hands-on Technical Workshop
+
+PRIVATE content for the Pivotal Big Data Roadshow (http://pivotal.io/big-data/data-roadshow).  
+Please don't share this content with customers.
+
+== Roadshow Agenda 
+
+The usual flow is the following:
+
+- 09:00 - 10:15: "The Journey to Becoming a Data-Driven Enterprise"
+- 10:15 - 10:30: Coffee Break
+- 10:30 - 12:00: Internet of Things Demo and Architecture Overview
+- 12:00 - 1:00:  Lunch & Birds of a Feather Discussion
+- 1:00  - 3:00:  Hands-On Technical Workshop
+
+This repository contains the PPTx private material for the Hands-on Technical Workshop and IoT / Architecture review sessions.
+
+For the shareable material, please see the https://github.com/Pivotal-Field-Engineering/BigDataRoadshow-labs public repo
